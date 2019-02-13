@@ -1,0 +1,17 @@
+{
+  "name": "1-es-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
